@@ -1,0 +1,6 @@
+{
+  "name": "Mi Primera App Android",
+  "description": "Proyecto Android nativo con Kotlin y Jetpack Compose listo para compilar en AIDE y Android Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
